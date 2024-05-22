@@ -31,30 +31,32 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Note Making App",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Intuitive note-taking app with secure sharing and dynamic filing system.",
+    url: "https://github.com/rBhagat4196/notion-clone",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Social Media Application",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Secure social media platform with JWT authentication and friend requests.",
+    url: "https://github.com/rBhagat4196/social-media-app",
   },
   {
-    title: "My Resume Site",
+    title: "Online Hotel Booking System",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Airbnb clone with user profiles, accommodation management, and search functionality.",
+    url: "https://github.com/rBhagat4196/Airbnb-Clone/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Chat Application",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Real-time chat app with multimedia sharing, email login, and notifications.",
+    url: "https://github.com/rBhagat4196/Chat_APP_WhatsAppClone/",
   },
 ];
+
+
 
 const Portfolio = () => {
   return (
